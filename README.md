@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 -->
 
 
-  - 🔭 I’m currently working on flutter projects.
-  - 🌱 I’m currently learning flutter.
+  - 🔭 I’m currently working on flutter projects and my youtube channel.
+  - 🌱 I’m currently learning flutter and algorithms.
   - 👯 I’m looking to collaborate on flutter linux app.
   - 🤔 I’m looking for help with ...
   - 💬 Ask me about algorithms and flutter.
