@@ -15,4 +15,18 @@ Here are some ideas to get you started:
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
   
-![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=himansingh241)
+ <hr>
+<details>
+  <summary>Github Statistics...</summary>
+  <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=himansingh241&show_icons=true"/>
+  </p>
+</details>
+<details>
+  <summary>Language Statistics...</summary><br/>
+  <p align = "center">
+    <img src="https://wakatime.com/share/@himansingh241/b9c4e99b-1caf-4fb7-9bad-f6db0e047ac2.svg" height="400"/>
+  </p>
+</details>
+<hr>
+ 
